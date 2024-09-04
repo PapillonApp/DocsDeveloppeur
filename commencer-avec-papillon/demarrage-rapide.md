@@ -5,7 +5,7 @@ icon: rocket
 # 🚀 Utiliser Expo avec Papillon
 
 {% hint style="warning" %}
-⚠️ Cette documentation concerne l'utilisation de Papillon dans un environnement Expo, qui n'est pas une application native. Certaines fonctionnalités natives peuvent ne pas être disponibles ou fonctionner différemment.
+Cette documentation concerne l'utilisation de Papillon dans un environnement Expo, qui n'est pas une application native. Certaines fonctionnalités natives peuvent ne pas être disponibles ou fonctionner différemment.
 {% endhint %}
 
 ## 📋 Prérequis
