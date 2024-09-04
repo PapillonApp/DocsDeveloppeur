@@ -40,7 +40,6 @@ Cette commande :
 Options principales :
 | Option | Description |
 |--------|-------------|
-| `-w`   | 🌍 Lance en mode web |
 | `-i`   | 🍎 Lance sur iOS Simulator |
 | `-a`   | 🤖 Lance sur Android Emulator |
 
