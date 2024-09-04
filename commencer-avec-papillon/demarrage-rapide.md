@@ -16,7 +16,7 @@ icon: rocket
   npm install -g expo-cli
   ```
 
-##  Installation et démarrage
+## 🚩 Installation et démarrage
 
 1. 📥 Clonez le dépôt Papillon :
    ```bash
@@ -31,10 +31,10 @@ icon: rocket
 
 3. 🚀 Lancez le projet :
    ```bash
-   npx expo start
+   npm run start
    ```
 
-## 🖥️ Commande `npx expo start`
+## 🖥️ Commande `npm run start`
 
 Cette commande :
 - 🌐 Lance le serveur de développement Expo
@@ -42,11 +42,13 @@ Cette commande :
 - 🔧 Propose des options de lancement sur émulateur/simulateur ou directement sur un appareil connecté en USB
 - 🔄 Active le rechargement à chaud (hot reload) pour une mise à jour instantanée de l'application lors des modifications du code
 
-Options principales :
-| Option | Description                   |
-|--------|-------------------------------|
-| `-i`   | 🍎 Lance sur iOS Simulator    |
-| `-a`   | 🤖 Lance sur Android Emulator |
+{% hint style="info" %}
+💡 Cette commande revient à exécuter `npx expo start`
+{% endhint %}
+
+{% hint style="info" %}
+💡 Pour les utilisateurs de Yarn, remplacez `npm run` par `yarn` dans les commandes ci-dessus.
+{% endhint %}
 
 ## 📱 Test sur appareil mobile
 
@@ -55,7 +57,7 @@ Options principales :
 3. 🎉 L'app Papillon s'ouvrira dans Expo Go
 
 {% hint style="info" %}
-💡 Grâce au rechargement à chaud, toute modification que vous apportez au code sera immédiatement reflétée dans l'application sans avoir besoin de la redémarrer !
+💡 Grâce au hot reload (rechargement à chaud), toute modification que vous apportez au code sera reflétée en tempas réel dans l'application sans avoir besoin de la redémarrer !
 {% endhint %}
 
 ## 🔒 Utilisation avec ports non exposés
@@ -66,12 +68,24 @@ Pour les serveurs ou réseaux avec ports non exposés, utilisez l'option `--tunn
 npx expo start --tunnel
 ```
 
+ou
+
+```bash
+npm run start -- --tunnel
+```
+
 ## 🖥️ Utilisation de port personnalisé
 
 Pour utiliser un port personnalisé, utilisez l'option `-p` suivi du numéro de port :
 
 ```bash
-npx expo start -p 3000
+npx expo start -port 3000
+```
+
+ou
+
+```bash
+npm run start -- --port 3000
 ```
 
 ## ❔ Aide
