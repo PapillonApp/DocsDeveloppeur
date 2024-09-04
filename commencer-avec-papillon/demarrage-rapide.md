@@ -57,7 +57,7 @@ Cette commande :
 3. 🎉 L'app Papillon s'ouvrira dans Expo Go
 
 {% hint style="info" %}
-💡 Grâce au hot reload (rechargement à chaud), toute modification que vous apportez au code sera reflétée en tempas réel dans l'application sans avoir besoin de la redémarrer !
+💡 Grâce au hot reload (rechargement à chaud), toute modification que vous apportez au code sera reflétée en temps réel dans l'application sans avoir besoin de la redémarrer !
 {% endhint %}
 
 ## 🔒 Utilisation avec ports non exposés
