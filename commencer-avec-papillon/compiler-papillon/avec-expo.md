@@ -8,7 +8,7 @@ icon: laptop
 Expo Go permet de tester le bon fonctionnement de l’app avec vos modifications avant de le compiler. 
 {% endhint %}
 
-Expo Go peut s’exécuter sur Windows, Mac ou Linux, et s’exécute avec l’app « Expo Go » (disponible sur [Play Store]() ou sur [l’App Store]()).
+Expo Go peut s’exécuter sur Windows, Mac ou Linux, et s’exécute avec l’app « Expo Go » (disponible sur [Play Store](https://play.google.com/store/apps/details?id=host.exp.exponent) ou sur [l’App Store](https://apps.apple.com/fr/app/expo-go/id982107779)).
 
 Pour pouvoir utiliser Expo Go avec Papillon, vous devez d’abord si cela n’est pas déjà fait :
 
