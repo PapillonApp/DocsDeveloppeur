@@ -24,4 +24,4 @@ Après quelques secondes, un QR Code s’affichera et vous devrez le scanner sur
 Lorsque Expo Go se lance et charge l’app, vous aurez un écran de chargement ou il faudra attendre que l’app soit correctement chargée. 
 
 Et voilà, vous voilà sur Papillon avec Expo Go ! Les informations et erreurs sur l’app se trouvent en bas de l’app comme sur l’image présente ci dessous.
-![image](https://ibb.co/k1YJSQ0)
+![image](https://i.ibb.co/nztvy40/IMG-1201.jpg)
