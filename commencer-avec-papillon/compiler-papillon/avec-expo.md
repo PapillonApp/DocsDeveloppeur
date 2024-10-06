@@ -12,9 +12,9 @@ Expo Go peut s’exécuter sur Windows, Mac ou Linux, et s’exécute avec l’a
 
 Pour pouvoir utiliser Expo Go avec Papillon, vous devez d’abord si cela n’est pas déjà fait :
 
-- 1 : Cloner Papillon
+1. : Cloner Papillon
 `git clone PapillonApp/Papillon`
-- 2 : Dans un terminal et dans le dossier Papillon, exécuter la commande : (Node.JS doit être installé et cette commande peut prendre un certain temps
+2. : Dans un terminal et dans le dossier Papillon, exécuter la commande : (Node.JS doit être installé et cette commande peut prendre un certain temps
 `npm install`
 
 Ensuite, pour lancer Expo Go, faites :
