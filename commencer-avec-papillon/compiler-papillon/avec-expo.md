@@ -5,7 +5,7 @@ icon: laptop
 # Avec Expo Go
 
 {% hint style="info" %}
-Expo Go permet de tester le bon fonctionnement de l’app avec vos modifications avant de le compiler. De plus, les fonctionnalités natives ne sont pas supportées sur Expo Go.
+Expo Go permet de tester le bon fonctionnement de l’app avec vos modifications avant de le compiler. De plus, les fonctionnalités natives ne sont pas supportées sur Expo Go et vous devez être sur les deux réseaux sur votre PC et votre mobile.
 {% endhint %}
 
 Expo Go peut s’exécuter sur Windows, Mac ou Linux, et s’exécute avec l’app « Expo Go » (disponible sur [Play Store](https://play.google.com/store/apps/details?id=host.exp.exponent) ou sur [l’App Store](https://apps.apple.com/fr/app/expo-go/id982107779)).
