@@ -9,6 +9,7 @@
   * [Pour iOS](commencer-avec-papillon/compiler-papillon/pour-ios.md)
   * [Pour Android](commencer-avec-papillon/compiler-papillon/pour-android.md)
   * [Avec EAS](commencer-avec-papillon/compiler-papillon/avec-eas.md)
+  * [Avec Expo Go](commencer-avec-papillon/compiler-papillon/avec-expo.md)
 
 ## Composants UI
 
