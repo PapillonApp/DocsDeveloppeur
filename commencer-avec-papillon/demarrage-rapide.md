@@ -1,6 +1,0 @@
----
-icon: laptop
----
-
-# Démarrage rapide
-
