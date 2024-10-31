@@ -5,7 +5,7 @@ description: >-
   GitHub comme hébergeur du code de l'application.
 ---
 
-# Commencer à développer
+# Préparer l'environnement de développement
 
 ### Prérequis
 
@@ -13,12 +13,13 @@ Pour commencer à développer Papillon vous avez besoin des outils suivants:
 
 * Git ([https://git-scm.com](https://git-scm.com/))
 * NodeJS ([https://nodejs.org/en](https://nodejs.org/en))
-* xCode, si vous comptez [compiler pour iOS ](../compiler-papillon/pour-ios.md)
+* xCode, si vous comptez [compiler pour iOS ](../compiler-papilon/pour-ios.md)
 * Une fork de Papillon
+* Un IDE comme VSCode ([https://code.visualstudio.com](https://code.visualstudio.com))
 
 ### Installation du repo
 
-Ce script effectue un clonage du dépôt git de Papillon auquel vous ne pouvez pas effectuer de changements, c'est pour cela qu'il vous faut remplaver l'url après `clone` par celle de votre fork que vous avez créé précédemment.
+Ce script effectue un clonage du dépôt git de Papillon auquel vous ne pouvez pas effectuer de changements, c'est pour cela qu'il vous faut remplacer l'url après `clone` par celle de votre fork que vous avez créé précédemment.
 
 {% tabs %}
 {% tab title="npm" %}
