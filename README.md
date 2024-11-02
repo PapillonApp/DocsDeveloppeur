@@ -1,11 +1,13 @@
+---
+description: >-
+  Papillon est une application ouverte à tous ceux qui veulent s'impliquer.
+  Rejoignez-nous pour contribuer au développement du projet !
+---
+
 # 👏 Bienvenue
 
 {% hint style="danger" %}
 Cette documentation est en cours de réécriture progressive, nous vous invitons à venir régulièrement pour voir les avancements!
-{% endhint %}
-
-{% hint style="danger" %}
-Papillon est une application ouverte à tous ceux qui veulent s'impliquer. Rejoignez-nous pour contribuer au développement du projet !
 {% endhint %}
 
 {% hint style="info" %}
