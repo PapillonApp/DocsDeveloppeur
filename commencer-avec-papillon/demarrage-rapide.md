@@ -43,6 +43,6 @@ Et voilà vous avez maintenant votre propre version de Papillon
 
 ### Vers l'infini et l'au delà...!
 
-Voilà! Vous avez une copie locale de Papillon prête à être améliorée par vos soins, pourquoi ne pas jeter un coup d'œuil à comment[ lancer le serveur de développement](avec-expo.md) ou en apprendre un peu plus sur les [composants de l'interface utilisateur](broken-reference)?
+Voilà! Vous avez une copie locale de Papillon prête à être améliorée par vos soins, pourquoi ne pas jeter un coup d'œuil à comment[ lancer le serveur de développement](avec-expo.md) ou en apprendre un peu plus sur la [structure du code](structure.md)?
 
 La seule limite est votre imagination!
