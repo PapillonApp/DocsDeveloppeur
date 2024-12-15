@@ -6,12 +6,13 @@ description: >-
 
 # 👏 Bienvenue
 
-{% hint style="danger" %}
-Cette documentation est en cours de réécriture progressive, nous vous invitons à venir régulièrement pour voir les avancements!
-{% endhint %}
+> [!IMPORTANT]
+> Cette documentation est en cours de réécriture progressive, nous vous invitons à venir 
+>régulièrement pour voir les avancements!
 
-{% hint style="info" %}
-Le projet est conçu pour être simple et accessible, **même aux débutants**, avec des composants et des documentations imaginées pour vous.
-{% endhint %}
+
+> [!NOTE]
+>Le projet est conçu pour être simple et accessible, **même aux débutants**, avec des >composants et des documentations imaginées pour vous.
+
 
 Cette documentation est votre point de rencontre avec les outils Papillon. Et pour toute demande, retrouvez-nous sur notre [Discord](https://discord.gg/UQ7mH82vQ9)!
