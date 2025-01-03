@@ -66,4 +66,4 @@ Attendre un peu et c'est tout bon!
 {% endstep %}
 {% endstepper %}
 
-![CleanShot 2024-10-03 at 21 41 06](https://github.com/user-attachments/assets/97efe4bc-526e-45b4-b44c-eb281c25a4cc) ![CleanShot 2024-10-03 at 21 42 24](https://github.com/user-attachments/assets/7642b6d0-f296-4e49-89ee-a2f7e81ef728) ![CleanShot 2024-10-03 at 21 44 13](https://github.com/user-attachments/assets/04a8df53-b33f-4909-8738-da2fb131e87c)
+![](https://github.com/user-attachments/assets/97efe4bc-526e-45b4-b44c-eb281c25a4cc) ![](https://github.com/user-attachments/assets/7642b6d0-f296-4e49-89ee-a2f7e81ef728) ![](https://github.com/user-attachments/assets/04a8df53-b33f-4909-8738-da2fb131e87c)
